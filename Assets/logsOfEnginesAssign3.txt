@@ -1,0 +1,7 @@
+ShapeLocationX:-0.3223872
+ShapeLocationZ:6.242788
+RedColAmount:0.5598446
+GreenColAmount: 0.6219016
+BlueColAmount:0.7100295
+
+
