@@ -1,7 +1,35 @@
-ShapeLocationX:-0.3223872
-ShapeLocationZ:6.242788
-RedColAmount:0.5598446
-GreenColAmount: 0.6219016
-BlueColAmount:0.7100295
+ShapeLocationX:-12.23475
+ShapeLocationZ:4.649658
+RedColAmount:0.5087453
+GreenColAmount: 0.9478521
+BlueColAmount:0.5097055
+
+
+ShapeLocationX:3.676193
+ShapeLocationZ:5.613453
+RedColAmount:0.6901541
+GreenColAmount: 0.5516474
+BlueColAmount:0.8388305
+
+
+ShapeLocationX:15.78919
+ShapeLocationZ:5.537601
+RedColAmount:0.7004758
+GreenColAmount: 0.5377644
+BlueColAmount:0.5460191
+
+
+ShapeLocationX:12.66113
+ShapeLocationZ:13.07499
+RedColAmount:0.7908895
+GreenColAmount: 0.8832575
+BlueColAmount:0.5256451
+
+
+ShapeLocationX:1.944172
+ShapeLocationZ:17.49135
+RedColAmount:0.8208803
+GreenColAmount: 0.7006829
+BlueColAmount:0.8968772
 
 
