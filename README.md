@@ -1,29 +1,27 @@
-# INFR 3110U Game Engine Design Assignment 02
+# INFR 3110U Game Engine Design Assignment 03
 
 # Game Description
 RAOITGDC's planned GDW game does not really need the implementation of a level editor because our levels are going to be premade
 and our game is going to be a dark Asymmetric multiplayer horror game.
-So for this assignment we just made a base prototype in which we can add playable elements too for the next assignment coming up,
-such as a moving character, sound etc...
+Since we need to spice up the gameplay element our our previous assignment, I added a moving player and a goal for the players to complete.
+I also added some rocks to the scene to give it some life
 
-![engAssign2 1](https://user-images.githubusercontent.com/56273694/138789351-3a64ca04-3d59-46ef-9595-6b216de3e2b9.png)
-![engAssign2](https://user-images.githubusercontent.com/56273694/138789379-4781c287-25d7-40ff-be4a-dc8ed6d57290.png)
+![GE3 1](https://user-images.githubusercontent.com/56273694/140442093-152b07e1-d656-4b3f-9073-f0dbe56d72e0.png)
+![GE3 2](https://user-images.githubusercontent.com/56273694/140442269-afd46026-083e-4dc4-9285-3aacac806f89.png)
 
 # Video link
-https://youtu.be/njjQaD1x7xg
-
-# Mozilla Hubs link
-https://hubs.mozilla.com/scenes/9TGhmw2
+https://youtu.be/U0XpLFzhFRg
 
 # Dev Team
-Trey Cowell - 100745472 (UML Chart, Button UI Implementation, Video, Github ReadME), 
-Alex Chow - 100749034 (FactoryDesign Pattern, OptionalDesign Pattern, DLL, CommandDesign),
-James Pham - 100741773 (GithubRepo, Enhancing the in-game scene, Mozilla Hubs Space)
+Trey Cowell - 100745472
 
 # UML
-![UMLAssign2](https://user-images.githubusercontent.com/56273694/138789451-b9b8c65f-1584-435f-8953-0af4216d7b10.png)
+![UMLAssign3](https://user-images.githubusercontent.com/56273694/140446311-48c0af9a-8925-48df-9e95-d4ff74a248c1.png)
 
 # Third-party Acknowledgements
+
+Optimization Pattern included is the Dirty Flag that we learned in Tutorial 7 of this course
+
 Command Design Pattern code used from Game Engines Tutorial 5.
 
 https://thehardestwork.com/2020/12/10/how-to-build-a-spawner-in-unity/
@@ -37,3 +35,5 @@ The above link is the reference for the state design pattern in our assignment.
 https://www.codegrepper.com/code-examples/csharp/can+you+reference+ui+button+being+pressed+in+script+in+unity
 
 The above website helped with the implementation of Buttons in Unity.
+
+
