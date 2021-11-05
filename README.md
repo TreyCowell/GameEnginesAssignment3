@@ -10,13 +10,13 @@ I also added some rocks to the scene to give it some life
 ![GE3 2](https://user-images.githubusercontent.com/56273694/140442269-afd46026-083e-4dc4-9285-3aacac806f89.png)
 
 # Video link
-
+https://youtu.be/U0XpLFzhFRg
 
 # Dev Team
 Trey Cowell - 100745472
 
 # UML
-
+![UMLAssign3](https://user-images.githubusercontent.com/56273694/140446311-48c0af9a-8925-48df-9e95-d4ff74a248c1.png)
 
 # Third-party Acknowledgements
 
